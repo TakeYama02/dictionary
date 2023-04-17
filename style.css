@@ -1,0 +1,15 @@
+.kinda-big {
+	font-size: xx-large;
+}
+
+.kinda-small {
+	font-size: small;
+}
+
+.italic {
+	font-style: italic;
+}
+
+html {
+	padding: 2.5%;
+}
